@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/VexelB/VexelB.GitHub.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -18,7 +20,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
 
 1. Numbered
 2. List
