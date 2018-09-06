@@ -18,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
+
 1. Numbered
 2. List
 
