@@ -4,10 +4,10 @@ You can use the [editor on GitHub](https://github.com/VexelB/VexelB.GitHub.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr1">Установка node</a>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a>
+<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a><br>
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr1">Установка node</a><br>
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a><br>
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a><br>
 
 ### Markdown
 
