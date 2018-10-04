@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a><br>
 <a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a><br>
 <a href="https://vexelb.github.io/270918/">Модульность</a><br>
+<a href="https://vexelb.github.io/web410/">Babel и Flow</a><br>
 
 ### Markdown
 
