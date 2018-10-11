@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my Git Pages with some my codes.
 
-You can use the [editor on GitHub](https://github.com/VexelB/VexelB.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a><br>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr1">Установка node</a><br>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a><br>
-<a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a><br>
-<a href="https://vexelb.github.io/270918/">Модульность</a><br>
-<a href="https://vexelb.github.io/web410/">Babel и Flow</a><br>
+<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
+
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr1">Установка node</a>
+
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a>
+
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a>
+
+<a href="https://vexelb.github.io/270918/">Модульность</a>
+
+<a href="https://vexelb.github.io/web410/">Babel и Flow</a>
+
+<a href="https://vexelb.github.io/web111018/">JSdoc</a>
+
+<a href="https://kodaktor.ru/?!=mda_7e900">IIFE</a>
 
 ### Markdown
 
