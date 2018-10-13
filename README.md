@@ -12,11 +12,14 @@
 
 <a href="https://vexelb.github.io/270918/">Модульность</a>
 
+<a href="https://vexelb.github.io/web27918/">зависимости</a>
+
 <a href="https://vexelb.github.io/web410/">Babel и Flow</a>
 
 <a href="https://vexelb.github.io/web111018/">JSdoc</a>
 
 <a href="https://kodaktor.ru/?!=mda_7e900">IIFE</a>
+
 
 ### Markdown
 
