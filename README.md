@@ -10,6 +10,8 @@
 
 <a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a>
 
+<a href="https://kodaktor.ru/task_ef9b4">Введение в JS</a>
+
 <a href="https://vexelb.github.io/270918/">Модульность</a>
 
 <a href="https://vexelb.github.io/web27918/">зависимости</a>
