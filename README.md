@@ -12,9 +12,9 @@
 
 <a href="https://kodaktor.ru/task_ef9b4">Введение в JS</a>
 
-<a href="https://vexelb.github.io/270918/">Модульность</a>
-
 <a href="https://vexelb.github.io/web27918/">зависимости</a>
+
+<a href="https://vexelb.github.io/270918/">Модульность</a>
 
 <a href="https://vexelb.github.io/web410/">Babel и Flow</a>
 
