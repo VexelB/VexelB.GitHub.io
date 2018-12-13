@@ -29,3 +29,5 @@
 <a href="https://kodaktor.ru/?!=mdaush_73e91">30.10</a>
 
 <a href="https://kodaktor.ru/?!=mda2911_5d478">29.11</a>
+
+<a href="https://myvery1app.herokuapp.com/">13.12</a><a href="https://github.com/VexelB/web1312">Гит</a>
