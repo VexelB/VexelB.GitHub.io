@@ -32,4 +32,4 @@
 
 <a href="https://myvery1app.herokuapp.com/">13.12</a><a href="https://github.com/VexelB/web1312">Гит</a>
 
-<a href="https://myvery1app.herokuapp.com/">20.12</a>
+<a href="https://morning-tundra-96606.herokuapp.com/static.pdf">20.12</a>
