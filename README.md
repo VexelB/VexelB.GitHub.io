@@ -44,7 +44,7 @@
 
 <a href="https://kodaktor.ru/?!=jeka_d94e7">21.03(1)</a><a href="https://kodaktor.ru/?!=jeka_78dea">21.03(2)</a>
 
-<a href="https://kodaktor.ru/?!=react_simple_39f9f">04.04(1)</a><a href="https://kodaktor.ru/?!=28032019_48c28">04.04(1)</a>
+<a href="https://kodaktor.ru/?!=react_simple_39f9f">04.04(1)</a><a href="https://kodaktor.ru/?!=28032019_48c28">04.04(2)</a>
 
 <a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/1804.php">11.04</a>
 
